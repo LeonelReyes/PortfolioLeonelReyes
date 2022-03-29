@@ -1249,7 +1249,7 @@ section {
     display: none;
   }
   .left-header .image {
-    width: 80% !important;
+    width: 100% !important;
     margin: 0 auto !important;
   }
   .right-header {
